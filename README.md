@@ -1,4 +1,4 @@
-#Relatório do controle de despesas
+# Relatório do controle de despesas
 
 Esse programa simples que criei serve para me ajudar na loja em que eu trabalho, 
 uma vez que todos os meses manualmente tenho que escrever o relatorio detalahando as despesas do mês .
